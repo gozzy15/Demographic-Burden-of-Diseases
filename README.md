@@ -2,7 +2,8 @@
 
 Healthcare challenges are not evenly distributed. Some diseases disproportionately affect children, while others weigh heavily on the elderly or on specific genders. Understanding this demographic burden is critical for policymakers, healthcare planners, and global health organizations.  
 
-In this project, I used **MySQL 8.0** to explore a global health dataset and uncover which age and gender groups are most affected by major diseases such as **Malaria, Diabetes, HIV/AIDS, Tuberculosis, and COVID-19**.  
+In this project, I used **MySQL 8.0** to explore a global health dataset and uncover which age and gender groups are most affected by major diseases such as **Malaria, Diabetes, HIV/AIDS, Tuberculosis, and COVID-19**.
+I then expored my data to **PowerBI** for visualization 
 
 This project demonstrates how SQL can move beyond basic queries to deliver **policy-relevant insights** into global health inequalities.  
 
@@ -218,3 +219,6 @@ ORDER BY cys.year;
 ## ⚠️ Disclaimer
 
 The dataset used in this project is synthetic and does not represent real-world health data. It was created solely for educational and portfolio purposes to demonstrate SQL and data analysis techniques. Any similarities to actual countries, statistics, or health outcomes are purely coincidental.
+
+## Dashboard Preview
+![Dashboard Screenshot](https://github.com/gozzy15/Demographic-Burden-of-Diseases/blob/main/demographic_burden_of_diseases%20Dashboard.png)

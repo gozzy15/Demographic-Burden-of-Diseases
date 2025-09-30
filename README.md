@@ -3,7 +3,7 @@
 Healthcare challenges are not evenly distributed. Some diseases disproportionately affect children, while others weigh heavily on the elderly or on specific genders. Understanding this demographic burden is critical for policymakers, healthcare planners, and global health organizations.  
 
 In this project, I used **MySQL 8.0** to explore a global health dataset and uncover which age and gender groups are most affected by major diseases such as **Malaria, Diabetes, HIV/AIDS, Tuberculosis, and COVID-19**.
-I then expored my data to **PowerBI** for visualization 
+I then exported the data to **PowerBI** for visualization 
 
 This project demonstrates how SQL can move beyond basic queries to deliver **policy-relevant insights** into global health inequalities.  
 
